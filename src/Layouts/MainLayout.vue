@@ -7,7 +7,7 @@
       >
         <v-app-bar-nav-icon variant="text" @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
 
-        <v-toolbar-title>کدیاد بلاگ</v-toolbar-title>
+        <v-toolbar-title> بلاگ</v-toolbar-title>
 
         <v-spacer></v-spacer>
 
